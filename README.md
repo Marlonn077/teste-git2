@@ -22,4 +22,4 @@ git remote add <nome> <url> → add um novo repositorio remoto
 
 git push <nome> <nome da branch> → pega as alterações do repositorio remoto e joga para nossa maquina 
 
-git fetch → atualiza o novo historico local de acordo com o historico salvo no repositorio (sincronização do local no remoto)
+git fetch → atualiza o novo historico local de acordo com o historico salvo no repositorio (sincronização do local no remoto).
